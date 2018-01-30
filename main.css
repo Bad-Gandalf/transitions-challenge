@@ -1,4 +1,4 @@
-.box {
+ .box {
   background-color: #79797f;
   width: 150px;
   height: 150px;
@@ -9,7 +9,7 @@
 
 
 .box:hover {
-    width: 100px;
+    background-color: #e84610;
     
 }
 
